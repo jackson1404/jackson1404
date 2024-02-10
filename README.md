@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Win Min Thant</h1>
 <h3 align="center">A coding enthusiast who loves exploring new technologies</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 - 🌱 I’m currently learning **React and to take OCA exam**
 

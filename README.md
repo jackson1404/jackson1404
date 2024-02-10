@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/Jack.No.Limit.14.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="win min thant" height="30" width="40" /></a>
+
 <a href="mailto:jackson14042004@gmail.com" target="_blank">
   <img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="Gmail" height="30" width="30" />
 </a>

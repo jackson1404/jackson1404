@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Win Min Thant</h1>
 <h3 align="center">A coding enthusiast who loves exploring new technologies</h3>
 
+- I'm specialized javaSE and Spring boot
+
 - 🌱 I’m currently learning **React and to take OCA exam**
 
 - 💬 Ask me about **Spring**

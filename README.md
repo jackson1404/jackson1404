@@ -1,4 +1,3 @@
-[![MasterHead]( https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif )](https://jackson1404.io)
 
 <h1 align="center">Hi 👋, I'm Win Min Thant</h1>
 <h3 align="center">A coding enthusiast who loves exploring new technologies</h3>
